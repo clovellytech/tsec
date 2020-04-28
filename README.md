@@ -1,4 +1,4 @@
-# [tsec](https://jmcardon.github.io/tsec/) [![Build Status][travis-badge]][travis-url] [![Sonatype Release][sonatype-badge]][sonatype-url] [![Join the chat at https://gitter.im/tsecc/Lobby](https://badges.gitter.im/tsecc/Lobby.svg)](https://gitter.im/tsecc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# [tsec](https://jmcardon.github.io/tsec/) [![Build Status][travis-badge]][travis-url] [![Join the chat at https://gitter.im/tsecc/Lobby](https://badges.gitter.im/tsecc/Lobby.svg)](https://gitter.im/tsecc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 A type-safe, functional, general purpose security and cryptography library.
@@ -6,7 +6,7 @@ A type-safe, functional, general purpose security and cryptography library.
 This fork just holds some changes that I needed for my deployments for now, you should go to the root project.
 
 
-### Latest Release: 0.2.0.2
+### Latest Release: 0.2.0.3
 
 For the current progress, please refer to the [RoadMap](https://github.com/jmcardon/tsec/wiki)
 
