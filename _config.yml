@@ -6,6 +6,6 @@ docs: true
 collections:
   tut:
     output: true
-version: 0.2.1-ct-2+2-1a043329-SNAPSHOT
+version: 0.2.1-ct-2+3-a3f403ed-SNAPSHOT
 org: io.github.jmcardon
 markdown: kramdown
